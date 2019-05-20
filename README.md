@@ -2,8 +2,10 @@
 
 int1.py - Median of Arrays
 
-int3.py -  Given a matrix, find the path from top left to bottom right with the greatest product by moving only down and right.
+int3.py -  Given a matrix, find path from top left to bottom right with the greatest product
 
-int4.py - Given an array of integers where each value 1 <= x <= len(array), write a function that finds all the duplicates in the array.
+int4.py - Given an array , each value 1 <= x <= len(array), find all the duplicates in the array.
 
-int5.py - Given an unsorted array, find the length of the longest sequence of consecutive numbers in the array.
+int5.py - Given an unsorted array, find the length of the longest sequence of consecutive numbers
+
+int6.py  - Given a boolean matrix, update row,col to True with cell is True
