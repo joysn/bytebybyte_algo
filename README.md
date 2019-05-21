@@ -9,3 +9,5 @@ int4.py - Given an array , each value 1 <= x <= len(array), find all the duplica
 int5.py - Given an unsorted array, find the length of the longest sequence of consecutive numbers
 
 int6.py  - Given a boolean matrix, update row,col to True with cell is True
+
+int7.py - Find sub-square-matrix of all 1s
