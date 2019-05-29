@@ -21,3 +21,5 @@ int10.py - Merge 2 sorted arrays w/o new space
 int11.py - Fins subarrays whose sum is zero
 
 int12.py - Return all permutations
+
+int13.py - N Stacks, given capacity of array, No stack should be full unless the entire array is full.
