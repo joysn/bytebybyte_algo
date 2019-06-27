@@ -34,4 +34,6 @@ int17.py - Select random node from a binary tree
 
 int18.py - Lowest Common Ancestor in a tree
 
-int19.py sum without using arithmetic operators.
+int19.py - sum without using arithmetic operators
+
+int20.py - Reverse stack
