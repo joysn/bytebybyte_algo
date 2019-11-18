@@ -93,3 +93,13 @@ def pushatbottom(s1,x):
 		
 reverse(s1)
 s1.display()
+
+
+# $python int20_reverse_stack.py
+# 3
+# 2
+# 1
+# ********
+# 1
+# 2
+# 3
