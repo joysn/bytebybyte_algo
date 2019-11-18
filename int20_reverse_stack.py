@@ -76,7 +76,7 @@ def reverse(s1):
 	if s1.isempty():
 		return s1
 	temp = s1.pop()
-	reverse(s1)
+	s1 = reverse(s1)
 	pushatbottom(s1,temp)
 	return s1
 	
