@@ -39,3 +39,5 @@ int19.py - sum without using arithmetic operators
 int20.py - Reverse stack
 
 int21.py - Tree to Doubly Linked List
+
+int22.py - Longest consecutive branch
