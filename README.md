@@ -41,3 +41,5 @@ int20.py - Reverse stack
 int21.py - Tree to Doubly Linked List
 
 int22.py - Longest consecutive branch
+
+int23.py - Reverse a linked List
