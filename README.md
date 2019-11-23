@@ -45,3 +45,5 @@ int22.py - Longest consecutive branch
 int23.py - Reverse a linked List
 
 int26.py - Number of coins
+
+int27.py - Inorder travelsal without recursion
