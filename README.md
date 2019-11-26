@@ -49,3 +49,5 @@ int26.py - Number of coins
 int27.py - Inorder travelsal without recursion
 
 int28.py - Sort Stack using another stack
+
+int29.py - Implement push/pop using queue
