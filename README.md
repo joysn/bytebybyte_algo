@@ -53,3 +53,6 @@ int28.py - Sort Stack using another stack
 int29.py - Implement push/pop using queue
 
 int30.py - Is linked list a palindrome
+
+int31.py - Max stack - max() should return max element in o(1), pop,push in o(1)
+
