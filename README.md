@@ -56,6 +56,6 @@ int30.py - Is linked list a palindrome
 
 int31.py - Max stack - max() should return max element in o(1), pop,push in o(1)
 
-algo32.py - Find 2 missing numbers from a given sequence
+algo32/2.py - Find 2 missing numbers from a given sequence
 
 
