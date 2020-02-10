@@ -61,3 +61,6 @@ algo32/2.py - Find 2 missing numbers from a given sequence
 algo34.py - Swap numbers without additional variables
 
 algo38.py - Linked List cycle?
+
+algo42 - Nth to the Last Element
+
