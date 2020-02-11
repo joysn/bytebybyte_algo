@@ -64,3 +64,5 @@ algo38.py - Linked List cycle?
 
 algo42 - Nth to the Last Element
 
+algo43_three_sum - all sets of 3 numbers whose sum is 0
+
