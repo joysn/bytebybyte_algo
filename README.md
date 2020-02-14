@@ -12,7 +12,7 @@ int6.py  - Given a boolean matrix, update row,col to True with cell is True
 
 int7.py - Find sub-square-matrix of all 1s
 
-int8\*py - Merge k sorted array 
+int8\*py - Merge k sorted array  (8a using minHeap)
 
 int9.py - Matrix Search
 
